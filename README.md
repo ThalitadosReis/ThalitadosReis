@@ -17,10 +17,6 @@
 </div>
 
 ## About me
-<img align="right" src="https://res.cloudinary.com/douen1dwv/image/upload/v1676977324/default/about_dhscsh.png" width=250px >
-
-<br /> 
-
 <li> 🔭 I’m currently working on a side project </li>
 <li> 🌱 I am learning TypeScript and Redux</li>
 <li> 💬 I speak English, Português, Español und Ich lerne Deutsch </li>
