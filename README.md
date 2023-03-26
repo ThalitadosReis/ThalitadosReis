@@ -22,12 +22,8 @@
 <li> 💬 I speak English, Português, Español und Ich lerne Deutsch </li>
 <li> 🏠 I live in Switzerland </li>
 <li> 📌 I'm currently looking for a new adventure </li>
-
-
-<br /> <br />
-
+                                                                                                       
 ## Languages and Tools
-
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
