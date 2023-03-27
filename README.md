@@ -12,8 +12,7 @@
     <a href="https://dosreis-portfolio.netlify.app/" >
       <img src="https://img.shields.io/badge/Portfolio-F7A41D.svg?&style=for-the-badge&logoColor=white" alt="Portfolio />
     </a>
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=ThalitadosReis&style=flat-square&color=yellow" alt=""/>
+    <a href="#" />
 </div>
 
 ## About me
