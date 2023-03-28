@@ -4,7 +4,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=F9A826&center=true&width=500&height=40&lines=Hi!+I'm+Thalita++;and+I'm+a+Full-Stack+Developer" alt="Typing SVG" /></a>
     </p>
     <a href="https://www.linkedin.com/in/thalitadosreis/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:dosreistha@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
