@@ -17,7 +17,7 @@
 
 ## About me
 <li> 🔭 I’m currently working on a side project </li>
-<li> 🌱 I am learning TypeScript Next.js </li>
+<li> 🌱 I am learning TypeScript and Next.js </li>
 <li> 💬 I speak English, Português, Español und Ich lerne Deutsch </li>
 <li> 🏠 I live in Switzerland </li>
 <li> 📌 I'm currently looking for a new opportunity </li>
