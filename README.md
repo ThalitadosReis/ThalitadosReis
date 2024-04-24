@@ -1,5 +1,4 @@
 <div id="badges" align="center">
-    <img src="https://res.cloudinary.com/douen1dwv/image/upload/v1676924805/default/greet_p4egmq.png" width="350">
     <p>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=F9A826&center=true&width=500&height=40&lines=Hi!+I'm+Thalita++;and+I'm+a+Full-Stack+Developer" alt="Typing SVG" />
     </p>
