@@ -15,9 +15,8 @@
 </div>
 
 ## About me
-<li> 💬 I speak English, Português, Español und Ich lerne Deutsch </li>
+<li> 💬 I speak English, Português, Español and Deutsch </li>
 <li> 🏠 I live in Switzerland </li>
-<li> 📌 I'm currently looking for a new opportunity </li>
                                                                                                        
 ## Languages and Tools
 <div id="badges" align="center">
