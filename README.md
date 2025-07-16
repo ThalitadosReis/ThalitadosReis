@@ -18,13 +18,8 @@
 </div>
 
 
-## Links 
+## Links & Contact
 
-[![Website](https://img.shields.io/badge/Portfolio-ThalitadosReis-F9A825?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://dosreis-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ThalitadosReis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thalitadosreis/)
-
-## Contact 
-
-[![Email](https://img.shields.io/badge/Gmail-dosreistha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dosreistha@gmail.com)
-
-
+[![Email](https://img.shields.io/badge/Email-dosreistha@gmail.com-D14836?style=for-the-badge&labelColor=101010)](mailto:dosreistha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ThalitadosReis-0077B5?style=for-the-badge&labelColor=101010)](https://www.linkedin.com/in/thalitadosreis/)
+[![Website](https://img.shields.io/badge/Portfolio-ThalitadosReis-F9A825?style=for-the-badge&labelColor=101010)](https://dosreis-portfolio.netlify.app/)
