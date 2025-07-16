@@ -1,40 +1,30 @@
-<div id="badges" align="center">
-    <p>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=25&pause=1000&color=F9A826&center=true&width=500&height=40&lines=Hi!+I'm+Thalita++;and+I'm+a+Full-Stack+Developer" alt="Typing SVG" />
-    </p>
-    <a href="https://www.linkedin.com/in/thalitadosreis/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="mailto:dosreistha@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-    </a> 
-    <a href="https://dosreis-portfolio.netlify.app/" >
-      <img src="https://img.shields.io/badge/Portfolio-F7A41D.svg?&style=for-the-badge&logoColor=white" alt="Portfolio />
-    </a>
-    <a href="#" />
+<h1 align="center">Hi, I'm Thalita 👋</h1>
+
+<p align="center">
+  <em>Full-Stack Developer passionate about web development, learning languages, and personal growth.</em>
+</p>
+
+## About Me
+
+💬 I speak **English**, **Português**, **Español**, and **Deutsch**  
+🏠 I'm currently living in **Switzerland**  
+🌱 I enjoy **working in teams** and **collaborating**  
+⚡ Passionate about **technology**, **programming**, and continuous **self-improvement**
+
+## Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,postman,github,vscode,git,vite" />
 </div>
 
-## About me
-<li> 💬 I speak English, Português, Español and Deutsch </li>
-<li> 🏠 I live in Switzerland </li>
-                                                                                                       
-## Languages and Tools
-<div id="badges" align="center">
-	<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-	<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt="Tailwind CSS" />
-	<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-	<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-	<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-	<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-	<img src="https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+
+## Links 
+
+[![Website](https://img.shields.io/badge/Portfolio-ThalitadosReis-F9A825?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://dosreis-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ThalitadosReis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thalitadosreis/)
+
+## Contact 
+
+[![Email](https://img.shields.io/badge/Gmail-dosreistha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dosreistha@gmail.com)
+
+
