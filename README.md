@@ -22,4 +22,4 @@
 
 [![Email](https://img.shields.io/badge/Email-dosreistha@gmail.com-D14836?style=for-the-badge&labelColor=101010)](mailto:dosreistha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ThalitadosReis-0077B5?style=for-the-badge&labelColor=101010)](https://www.linkedin.com/in/thalitadosreis/)
-[![Website](https://img.shields.io/badge/Portfolio-ThalitadosReis-F9A825?style=for-the-badge&labelColor=101010)](https://dosreis-portfolio.netlify.app/)
+[![Website](https://img.shields.io/badge/Portfolio-ThalitadosReis-F9A825?style=for-the-badge&labelColor=101010)]([https://dosreis-portfolio.netlify.app](https://thalitadosreis.ch/)/)
