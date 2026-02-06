@@ -8,7 +8,6 @@
 
 🌍 Based in **Switzerland** <br>
 💬 I speak **English**, **Português**, **Español**, and **Deutsch** <br>
-🎯 Currently learning **TypeScript** and **Next.js** <br>
 🤝 I enjoy **team collaboration** and building **real-world projects** <br>
 ⚡ Passionate about **technology**, **problem-solving**, and personal **growth**
 
