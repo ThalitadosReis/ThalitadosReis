@@ -36,7 +36,7 @@ A modern full-stack e-commerce application built with **Next.js 15, React, TypeS
 - Email handling via Nodemailer  
 
 🛠️ Tech: Next.js, React, TypeScript, Node.js, MongoDB, Stripe  
-🔗 [Live Demo]([https://your-link-here](https://brew-commerce.vercel.app)) | [GitHub Repo]([https://your-link-here](https://github.com/ThalitadosReis/brew-commerce))
+🔗 [Live Demo](https://brew-commerce.vercel.app) | [GitHub Repo](https://github.com/ThalitadosReis/brew-commerce)
 
 ---
 
@@ -51,7 +51,7 @@ A full-stack MERN application for discovering and managing events in real time.
 - User authentication system  
 
 🛠️ Tech: React, Node.js, Express, MongoDB, Socket.io  
-🔗 [GitHub Repo]([https://your-link-here](https://github.com/orgs/JoTa-Events/repositories))
+🔗 [GitHub Repo](https://github.com/orgs/JoTa-Events/repositories)
 
 ## 🔗 Connect with Me
 
